@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "みとらじギャラクティカ",
+  "base_artist": "月ノ美兎",
+  "createdAt": "2026-02-21T11:46:39.222798Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "みとらじギャラクティカ",
+      "artist": "月ノ美兎",
+      "has_synced": false,
+      "path": "select/pl_01_みとらじギャラクティカ_月ノ美兎.txt"
+    }
+  ]
+}
